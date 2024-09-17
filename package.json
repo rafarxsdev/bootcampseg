@@ -10,11 +10,7 @@
   },
   "private": true,
   "engines": {
-<<<<<<< HEAD
-    "node": ">=18.17.1"
-=======
     "node": ">=18.0.0"
->>>>>>> 62468dd (cambios)
   },
   "dependencies": {
     "@angular/animations": "^15.2.0",
