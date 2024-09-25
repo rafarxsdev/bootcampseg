@@ -64,25 +64,12 @@ export class Section2Component {
       youtube: '#',
     },
     {
-      nombre: 'Oscar Lopez',
+      nombre: 'Jenny ',
       foto: 'https://www.gravatar.com/avatar?d=mp',
       perfil: '',
       linkedin: '#',
       youtube: '#',
     },
-    {
-      nombre: 'Mauricio Rios',
-      foto: 'https://www.gravatar.com/avatar?d=mp',
-      perfil: '',
-      linkedin: '#',
-      youtube: '#',
-    },
-    {
-      nombre: 'Mario Alexander Ruiz',
-      foto: 'https://www.gravatar.com/avatar?d=mp',
-      perfil: '',
-      linkedin: '#',
-      youtube: '#',
-    },
+    
   ];
 }
